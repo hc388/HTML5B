@@ -100,15 +100,78 @@ textarea {
   width: 960px;
   margin-left: auto;
   margin-right: auto;
+  font-size: 17px;
+  line-height: 29px;
+  font-family: SansSerif ,"Helvetica Neue", Helvetica;
 }
-#heading{
-  text-decoration: ;
+#masthead_landing{
+  clear: both;
+  background-image: url("avengers.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 366px;
+  margin-bottom: 10px;
+}
+#masthead h1{
+  margin: 0px;
+  padding: 0px;
+}
+#logo img{
+  width: 120px;
 }
 
+#logo{
+  float: left;
+}
+#primary_links li{
+  display: inline;
+  padding-left: 20px;
+}
+#primary_links{
+  float: left;
+  line-height: 120px;
+}
+#primary_links menu{
+  padding: 0px;
+  margin: 0px;
+}
+#content{
+  width: 593px;
+  float: left;
+}
+#sidebar{
+  width: 367px;
+  float: left;
+}
+#sidebar_image{
+  width: 320px;
+  margin: auto;
 
+}
+#footer {
+  clear: both;
+  height: 120px;
+  text-align: center;
+  float: left;
+}
+#article_body{
+  padding-right: 24px;
 
+}
+#callout_one, #callout_two, #callout_three{
+  float: left;
+  width: 298px;
+  height: 196px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  margin-right: 10px;
+  padding-left: 10px;
 
+}
+#content_landing{
 
+}
 
 
 
