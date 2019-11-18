@@ -21,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-913">
+            <state relative-caret-position="-259">
               <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-end-line="32" />
             </state>
           </provider>
@@ -31,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="1" selection-start-column="1" selection-end-column="1" />
+              <first_editor relative-caret-position="3459">
+                <caret line="1834" column="149" selection-start-line="1834" selection-start-column="149" selection-end-line="1834" selection-end-column="149" />
               </first_editor>
               <second_editor />
             </state>
@@ -167,7 +167,7 @@
       <workItem from="1572451802699" duration="18000" />
       <workItem from="1572915297106" duration="559000" />
       <workItem from="1573161456276" duration="86000" />
-      <workItem from="1574119008266" duration="1627000" />
+      <workItem from="1574119008266" duration="2130000" />
     </task>
     <task id="LOCAL-00001" summary="second command">
       <created>1571697762412</created>
@@ -180,11 +180,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15343000" />
+    <option name="totallyTimeSpent" value="15846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49570817" visible="true" weight="0.273432" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -246,7 +245,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-913">
+        <state relative-caret-position="-259">
           <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-end-line="32" />
         </state>
       </provider>
@@ -254,8 +253,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <first_editor relative-caret-position="3459">
+            <caret line="1834" column="149" selection-start-line="1834" selection-start-column="149" selection-end-line="1834" selection-end-column="149" />
           </first_editor>
           <second_editor />
         </state>
