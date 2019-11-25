@@ -98,19 +98,47 @@ textarea {
    ========================================================================== */
 #wrapper{
   width: 960px;
+  font-size: 19px;
+  line-height: 32px;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+#menu{
+  height: 120px;
+  line-height: 120px;
+}
+.margin_left_right_auto{
   margin-left: auto;
   margin-right: auto;
-  font-size: 17px;
-  line-height: 29px;
-  font-family: SansSerif ,"Helvetica Neue", Helvetica;
 }
-#masthead_landing{
+.gr_width_large{
+  width: 593px;
+}
+.gr_width_small{
+  width: 367px;
+}
+.float_left{
+  float: left;
+}
+.float_right{
+  float: right;
+}
+.clear_float{
+  clear: both;
+}
+.reset_margin_padding{
+  margin:0px;
+  padding: 0px;
+}
+.text_center{
+  text-align: center;
+}
+#masthead{
   clear: both;
   background-image: url("avengers.jpg");
   background-size: cover;
   background-position: center;
-  height: 366px;
-  margin-bottom: 10px;
+  height: 74px;
+  margin-bottom: 45px;
 }
 #masthead h1{
   margin: 0px;
@@ -123,7 +151,7 @@ textarea {
 #logo{
   float: left;
 }
-#primary_links li{
+#menu li{
   display: inline;
   padding-left: 20px;
 }
@@ -140,12 +168,12 @@ textarea {
   float: left;
 }
 #sidebar{
-  width: 367px;
-  float: left;
+  width: 367px !important;
+  float: left !important;
 }
-#sidebar_image{
-  width: 320px;
-  margin: auto;
+#side_photo{
+  width: 320px !important;
+  height: 320px !important;
 
 }
 #footer {
